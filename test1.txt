@@ -5,3 +5,5 @@ un peu du JavaScript
 var a = 4
 var b = 7
 
+// calculer la somme 
+somme = a + b
