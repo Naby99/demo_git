@@ -1,1 +1,7 @@
 je pense donc je suis.
+
+un peu du JavaScript
+
+var a = 4
+var b = 7
+
